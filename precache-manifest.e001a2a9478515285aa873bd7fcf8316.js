@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1eaeae09da24db6125fef0b6ea094c0",
+    "revision": "ac0866e3ad94ae1f3364d0a0d326440e",
     "url": "/react-solitaire/index.html"
   },
   {
