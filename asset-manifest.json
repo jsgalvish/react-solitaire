@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-solitaire/static/css/main.4122c210.chunk.css",
+    "main.js": "/react-solitaire/static/js/main.041b555f.chunk.js",
+    "main.js.map": "/react-solitaire/static/js/main.041b555f.chunk.js.map",
+    "runtime-main.js": "/react-solitaire/static/js/runtime-main.cf04ac0d.js",
+    "runtime-main.js.map": "/react-solitaire/static/js/runtime-main.cf04ac0d.js.map",
+    "static/js/2.45045f1a.chunk.js": "/react-solitaire/static/js/2.45045f1a.chunk.js",
+    "static/js/2.45045f1a.chunk.js.map": "/react-solitaire/static/js/2.45045f1a.chunk.js.map",
+    "index.html": "/react-solitaire/index.html",
+    "precache-manifest.a62d032df829df55135e2013b2886b94.js": "/react-solitaire/precache-manifest.a62d032df829df55135e2013b2886b94.js",
+    "service-worker.js": "/react-solitaire/service-worker.js",
+    "static/css/main.4122c210.chunk.css.map": "/react-solitaire/static/css/main.4122c210.chunk.css.map",
+    "static/js/2.45045f1a.chunk.js.LICENSE.txt": "/react-solitaire/static/js/2.45045f1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf04ac0d.js",
+    "static/js/2.45045f1a.chunk.js",
+    "static/css/main.4122c210.chunk.css",
+    "static/js/main.041b555f.chunk.js"
+  ]
+}
